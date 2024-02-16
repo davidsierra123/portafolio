@@ -82,9 +82,6 @@ html {
 /*css de la foto de perfil*/
 
 #perfil {
-  filter: grayscale(
-    100%
-  ); /* Aplica un filtro de escala de grises del 100% a la imagen */
   transition: filter 0.5s ease, transform 0.5s ease 0.2s; /* Agrega un retraso de 0.2 segundos a la transición de transformación */
   width: 150px;
 }
@@ -775,4 +772,11 @@ footer .arriba {
   .contacto .fila .col {
     width: 100%;
   }
+}
+
+.cuidad{
+  position: absolute;
+  right: 50%; /* Mueve el elemento a la mitad del contenedor */
+  top: 50%; /* Mueve el elemento a la mitad del contenedor */
+  transform: translate(50%, -50%);
 }
