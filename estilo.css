@@ -306,7 +306,7 @@ html {
     width: 0%;
   }
   100% {
-    width: 75%;
+    width: 80%;
   }
 }
 
@@ -345,7 +345,7 @@ html {
       width: 5%;
     }
     100% {
-      width: 60%;
+      width: 80%;
     }
   }
 .skills .skill .java {

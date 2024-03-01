@@ -83,7 +83,7 @@ function enviarCorreo() {
 
   function descargarcv(){
       // Reemplaza 'ruta/al/tu/archivo.pdf' con la ruta real de tu archivo PDF
-      var rutaPDF = 'cv/Hoja de vida Jesus Bolivar Sierra.pdf';  
+      var rutaPDF = 'cv/Hoja de vida bt - Jesus Bolivar Sierra.pdf';  
   
       // Abrir el enlace en una nueva pestaña
       window.open(rutaPDF, '_blank');
